@@ -1,4 +1,4 @@
-package javabasics;
+                                                                                                                           package javabasics;
 
 public class DefaultValueOfDataType {
 	static byte a;
